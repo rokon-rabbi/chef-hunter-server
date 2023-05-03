@@ -1,179 +1,179 @@
 
- [
-      {
-        "id":1,
-      "chefName": "Sanjeev Kapoor",    
-        "yearsOfExperience": 40,    
-        "numRecipes": 1000,    
-        "likes": 15000,
-        "image": "https://images.mid-day.com/images/images/2015/apr/Chef-Sanjeev-Kapoor-l.jpg" ,    
-        "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular cooking show Khana Khazana, which has aired more than 800 episodes. Kapoor is the author of several bestselling cookbooks and has won numerous awards for his contributions to the culinary world.",
-        "recipes": [
-          {
-            "name": "Butter Chicken",
-            "ingredients": ["chicken", "yogurt", "onion", "tomato", "ginger", "garlic", "garam masala", "butter"],
-            "method": "1. Marinate the chicken in yogurt, ginger, garlic, and garam masala for at least 30 minutes. 2. Heat butter in a pan and add the marinated chicken. Cook until browned. 3. Remove chicken from the pan and set aside. 4. In the same pan, sauté onions until translucent. 5. Add tomato and cook until the mixture becomes a paste. 6. Add the chicken and simmer until cooked through. Serve hot with naan or rice.",
-            "rating": 4.5
-          },
-          {
-            "name": "Palak Paneer",
-            "ingredients": ["spinach", "paneer", "onion", "tomato", "ginger", "garlic", "cumin", "coriander", "turmeric", "cream"],
-            "method": "1. Blanch spinach and puree it. 2. Cut paneer into cubes and fry until golden brown. 3. In a separate pan, sauté onions, ginger, garlic, and spices until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add spinach puree and cream. 6. Add paneer and simmer until heated through. Serve hot with naan or rice.",
-            "rating": 4.2
-          },
-          {
-            "name": "Aloo Gobi",
-            "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "ginger", "garlic", "cumin", "coriander", "turmeric"],
-            "method": "1. Cut potatoes and cauliflower into small pieces. 2. In a pan, sauté onions, ginger, and garlic until fragrant. 3. Add cumin, coriander, turmeric, and potatoes. Cook until the potatoes are almost done. 4. Add cauliflower and tomato and simmer until the vegetables are cooked through. Serve hot with naan or rice.",
-            "rating": 4.8
-          }
-        ]
-      },
-      {
-        "id":2,
-      "chefName": "Vikas Khanna",    
-        "yearsOfExperience": 25,    
-        "numRecipes": 500,    
-        "likes": 8000,    
-        "image": "https://www.dissdash.com/wp-content/uploads/2017/11/23507249_177003129545460_8800824551454801920_n.jpg" ,
-        "bio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India. He is the founder of the nonprofit organization, The World's Largest Free Kitchen, which serves food to millions of people in India. Khanna has authored over 30 cookbooks and has been recognized by various prestigious awards for his contributions to the culinary world.",
-        "recipes": [
-          {
-            "name": "Chicken Tikka Masala",
-            "ingredients": ["chicken", "yogurt", "ginger", "garlic", "garam masala", "onion", "tomato", "cream", "butter"],
-            "method": "1. Marinate chicken in yogurt, ginger, garlic, and garam masala for at least 30 minutes. 2. Grill the chicken until golden brown. 3. In a separate pan, sauté onion until translucent. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the grilled chicken and simmer until cooked through. 6. Add cream and butter, and stir until heated through. Serve hot with naan or rice.",
-            "rating": 4.7
-          },
-          {
-            "name": "Baingan Bharta",
-            "ingredients": ["eggplant", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "garam masala"],
-            "method": "1. Roast eggplant until the skin is charred. 2. Peel off the skin and chop the eggplant finely. 3. In a pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the chopped eggplant and spices. 6. Simmer until heated through. Serve hot with naan or rice.",
-            "rating": 4.2
-          },
-          {
-            "name": "Paneer Makhani",
-            "ingredients": ["paneer", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "cream", "butter"],
-            "method": "1. Cut paneer into cubes and fry until golden brown. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add paneer and simmer until heated through. 5. Add cream and butter and stir until heated through. Serve hot with naan or rice.",
-            "rating": 4.5
-          }
-        ]
-      },
-      { "id":3,
-      "chefName": "Saransh Goila",    
-    "yearsOfExperience": 10,    
-    "numRecipes": 300,    
-    "likes": 5000,    
-    "image": "https://indianfoodfreak.com/wp-content/uploads/2013/03/Saransh-Goila-2-1.jpg" ,
-        "bio": "Saransh Goila is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India. He is the founder of the nonprofit organization, The World's Largest Free Kitchen, which serves food to millions of people in India. Khanna has authored over 30 cookbooks and has been recognized by various prestigious awards for his contributions to the culinary world.",
-        "recipes": [
-          {
-            "name": "Chicken Tikka Masala",
-            "ingredients": ["chicken", "yogurt", "ginger", "garlic", "garam masala", "onion", "tomato", "cream", "butter"],
-            "method": "1. Marinate chicken in yogurt, ginger, garlic, and garam masala for at least 30 minutes. 2. Grill the chicken until golden brown. 3. In a separate pan, sauté onion until translucent. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the grilled chicken and simmer until cooked through. 6. Add cream and butter, and stir until heated through. Serve hot with naan or rice.",
-            "rating": 4.7
-          },
-          {
-            "name": "Baingan Bharta",
-            "ingredients": ["eggplant", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "garam masala"],
-            "method": "1. Roast eggplant until the skin is charred. 2. Peel off the skin and chop the eggplant finely. 3. In a pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the chopped eggplant and spices. 6. Simmer until heated through. Serve hot with naan or rice.",
-            "rating": 4.2
-          },
-          {
-            "name": "Paneer Makhani",
-            "ingredients": ["paneer", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "cream", "butter"],
-            "method": "1. Cut paneer into cubes and fry until golden brown. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add paneer and simmer until heated through. 5. Add cream and butter and stir until heated through. Serve hot with naan or rice.",
-            "rating": 4.5
-          }
-        ]
-      }, 
-      {
-        "id":4,
-        "chefName": "Ranveer Brar",    
-      "yearsOfExperience": 20,    
-      "numRecipes": 700,    
-      "likes": 12000,    
-      "image": "https://assets.telegraphindia.com/telegraph/b86693e9-3006-48f0-a92b-eaf17a84a532.jpg",
-        "bio": "Ranveer Brar is a Michelin-starred Indian chef who has worked in some of the most prestigious kitchens in the world. He is the founder of the culinary arts organisation, Vikas Khanna Culinary Insights, and has written several books on Indian cuisine. He is known for his fusion cooking, which combines traditional Indian dishes with global ingredients.",
-        "recipes": [
-          {
-            "name": "Lamb Rogan Josh",
-            "ingredients": ["lamb", "onion", "ginger", "garlic", "tomato", "yogurt", "cumin", "coriander", "garam masala", "cardamom"],
-            "method": "1. Brown lamb in a pan and set aside. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add yogurt and spices and simmer for a few minutes. 5. Add the lamb and cook until heated through. 6. Serve hot with rice or naan.",
-            "rating": 4.7
-          },
-          {
-            "name": "Baingan Bharta",
-            "ingredients": ["eggplant", "tomato", "onion", "ginger", "garlic", "green chilies", "coriander", "cumin", "garam masala"],
-            "method": "1. Roast eggplant over an open flame until the skin is charred and the flesh is cooked through. 2. Remove the skin and mash the flesh. 3. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the mashed eggplant and spices and cook until heated through. 6. Garnish with coriander and serve hot with naan or rice.",
-            "rating": 4.5
-          },
-          {
-            "name": "Murg Makhani",
-            "ingredients": ["chicken", "onion", "ginger", "garlic", "tomato", "cream", "butter", "cumin", "coriander", "garam masala"],
-            "method": "1. Cut chicken into small pieces and fry until browned. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add cream and butter and stir until heated through. 5. Add the chicken and spices and simmer until heated through. 6. Serve hot with rice or naan.",
-            "rating": 4.6
-          }
-        ]
-      },
-      {
-        "id":5,
-        "chefName": "gaggan anand",    
-      "yearsOfExperience": 15,    
-      "numRecipes": 400,    
-      "likes": 7000,    
-      "image": "https://www.identitagolose.it/public/images/medium/schermata-2018-03-14-alle-104149.jpg",
-        "bio": "gaggan anand is an Indian chef who was the first Indian man to receive a Michelin star. he is the chef and owner of the critically acclaimed restaurant, Gaa, in Bangkok, which features a modern interpretation of Indian cuisine using locally sourced ingredients. Anand has been recognized for her innovative cooking and his efforts to promote sustainability in the restaurant industry.",
-        "recipes": [
-          {
-            "name": "Lamb Rogan Josh",
-            "ingredients": ["lamb", "onion", "ginger", "garlic", "tomato", "yogurt", "cumin", "coriander", "garam masala", "cardamom"],
-            "method": "1. Brown lamb in a pan and set aside. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add yogurt and spices and simmer for a few minutes. 5. Add the lamb and cook until heated through. 6. Serve hot with rice or naan.",
-            "rating": 4.7
-          },
-          {
-            "name": "Baingan Bharta",
-            "ingredients": ["eggplant", "tomato", "onion", "ginger", "garlic", "green chilies", "coriander", "cumin", "garam masala"],
-            "method": "1. Roast eggplant over an open flame until the skin is charred and the flesh is cooked through. 2. Remove the skin and mash the flesh. 3. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the mashed eggplant and spices and cook until heated through. 6. Garnish with coriander and serve hot with naan or rice.",
-            "rating": 4.5
-          },
-          {
-            "name": "Murg Makhani",
-            "ingredients": ["chicken", "onion", "ginger", "garlic", "tomato", "cream", "butter", "cumin", "coriander", "garam masala"],
-            "method": "1. Cut chicken into small pieces and fry until browned. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add cream and butter and stir until heated through. 5. Add the chicken and spices and simmer until heated through. 6. Serve hot with rice or naan.",
-            "rating": 4.6
-          }
-        ]
-      },
-      {
-        "id":6,
-            "chefName": "Atul Kochhar",   
-         "yearsOfExperience": 30,    
-         "numRecipes": 800,    
-         "likes": 14000,    
-         "image": "https://yt3.googleusercontent.com/ytc/AGIKgqOzaD9pP2Z-ahK0V41uYF11r8wr6bubvG8BrYI1=s176-c-k-c0x00ffffff-no-rj",
-        "bio": "Atul Kochhar is a Michelin-starred Indian chef who has worked in some of the most prestigious kitchens in London, including the Benares and Rang Mahal restaurants. He is known for his contemporary Indian cuisine and has won numerous awards for his work, including a prestigious National Chef of the Year award in the UK.",
-        "recipes": [
-          {
-            "name": "Tandoori Salmon",
-            "ingredients": ["salmon fillets", "yogurt", "lemon juice", "ginger", "garlic", "cumin", "coriander", "turmeric", "red chili powder", "garam masala"],
-            "method": "1. Marinate salmon fillets in a mixture of yogurt, lemon juice, ginger, garlic, and spices. 2. Grill the salmon until cooked through. 3. Serve hot with a side of salad or rice.",
-            "rating": 4.8
-          },
-          {
-            "name": "Chicken Biryani",
-            "ingredients": ["chicken", "basmati rice", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "garam masala", "mint leaves", "yogurt"],
-            "method": "1. Marinate chicken in a mixture of yogurt, ginger, garlic, and spices. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add the marinated chicken and cook until browned. 5. Add water and rice and bring to a boil. 6. Cover and simmer until the rice is cooked through. 7. Add mint leaves and serve hot.",
-            "rating": 4.6
-          },
-          {
-            "name": "Paneer Butter Masala",
-            "ingredients": ["paneer", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "cream", "butter"],
-            "method": "1. Cut paneer into cubes and fry until golden brown. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add paneer and simmer until heated through. 5. Add cream and butter and stir until heated through. Serve hot with naan or rice.",
-            "rating": 4.5
-          }
-        ]
-      }
-      
+[
+    {
+      "id":1,
+    "chefName": "Sanjeev Kapoor",    
+      "yearsOfExperience": 40,    
+      "numRecipes": 1000,    
+      "likes": 15000,
+      "image": "https://images.mid-day.com/images/images/2015/apr/Chef-Sanjeev-Kapoor-l.jpg" ,    
+      "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular cooking show Khana Khazana, which has aired more than 800 episodes. Kapoor is the author of several bestselling cookbooks and has won numerous awards for his contributions to the culinary world.",
+      "recipes": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": ["chicken", "yogurt", "onion", "tomato", "ginger", "garlic", "garam masala", "butter"],
+          "method": "1. Marinate the chicken in yogurt, ginger, garlic, and garam masala for at least 30 minutes. 2. Heat butter in a pan and add the marinated chicken. Cook until browned. 3. Remove chicken from the pan and set aside. 4. In the same pan, sauté onions until translucent. 5. Add tomato and cook until the mixture becomes a paste. 6. Add the chicken and simmer until cooked through. Serve hot with naan or rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": ["spinach", "paneer", "onion", "tomato", "ginger", "garlic", "cumin", "coriander", "turmeric", "cream"],
+          "method": "1. Blanch spinach and puree it. 2. Cut paneer into cubes and fry until golden brown. 3. In a separate pan, sauté onions, ginger, garlic, and spices until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add spinach puree and cream. 6. Add paneer and simmer until heated through. Serve hot with naan or rice.",
+          "rating": 4.2
+        },
+        {
+          "name": "Aloo Gobi",
+          "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "ginger", "garlic", "cumin", "coriander", "turmeric"],
+          "method": "1. Cut potatoes and cauliflower into small pieces. 2. In a pan, sauté onions, ginger, and garlic until fragrant. 3. Add cumin, coriander, turmeric, and potatoes. Cook until the potatoes are almost done. 4. Add cauliflower and tomato and simmer until the vegetables are cooked through. Serve hot with naan or rice.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id":2,
+    "chefName": "Vikas Khanna",    
+      "yearsOfExperience": 25,    
+      "numRecipes": 500,    
+      "likes": 8000,    
+      "image": "https://www.dissdash.com/wp-content/uploads/2017/11/23507249_177003129545460_8800824551454801920_n.jpg" ,
+      "bio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India. He is the founder of the nonprofit organization, The World's Largest Free Kitchen, which serves food to millions of people in India. Khanna has authored over 30 cookbooks and has been recognized by various prestigious awards for his contributions to the culinary world.",
+      "recipes": [
+        {
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["chicken", "yogurt", "ginger", "garlic", "garam masala", "onion", "tomato", "cream", "butter"],
+          "method": "1. Marinate chicken in yogurt, ginger, garlic, and garam masala for at least 30 minutes. 2. Grill the chicken until golden brown. 3. In a separate pan, sauté onion until translucent. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the grilled chicken and simmer until cooked through. 6. Add cream and butter, and stir until heated through. Serve hot with naan or rice.",
+          "rating": 4.7
+        },
+        {
+          "name": "Baingan Bharta",
+          "ingredients": ["eggplant", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "garam masala"],
+          "method": "1. Roast eggplant until the skin is charred. 2. Peel off the skin and chop the eggplant finely. 3. In a pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the chopped eggplant and spices. 6. Simmer until heated through. Serve hot with naan or rice.",
+          "rating": 4.2
+        },
+        {
+          "name": "Paneer Makhani",
+          "ingredients": ["paneer", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "cream", "butter"],
+          "method": "1. Cut paneer into cubes and fry until golden brown. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add paneer and simmer until heated through. 5. Add cream and butter and stir until heated through. Serve hot with naan or rice.",
+          "rating": 4.5
+        }
+      ]
+    },
+    { "id":3,
+    "chefName": "Saransh Goila",    
+  "yearsOfExperience": 10,    
+  "numRecipes": 300,    
+  "likes": 5000,    
+  "image": "https://indianfoodfreak.com/wp-content/uploads/2013/03/Saransh-Goila-2-1.jpg" ,
+      "bio": "Saransh Goila is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian and the judge of MasterChef India. He is the founder of the nonprofit organization, The World's Largest Free Kitchen, which serves food to millions of people in India. Khanna has authored over 30 cookbooks and has been recognized by various prestigious awards for his contributions to the culinary world.",
+      "recipes": [
+        {
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["chicken", "yogurt", "ginger", "garlic", "garam masala", "onion", "tomato", "cream", "butter"],
+          "method": "1. Marinate chicken in yogurt, ginger, garlic, and garam masala for at least 30 minutes. 2. Grill the chicken until golden brown. 3. In a separate pan, sauté onion until translucent. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the grilled chicken and simmer until cooked through. 6. Add cream and butter, and stir until heated through. Serve hot with naan or rice.",
+          "rating": 4.7
+        },
+        {
+          "name": "Baingan Bharta",
+          "ingredients": ["eggplant", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "garam masala"],
+          "method": "1. Roast eggplant until the skin is charred. 2. Peel off the skin and chop the eggplant finely. 3. In a pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the chopped eggplant and spices. 6. Simmer until heated through. Serve hot with naan or rice.",
+          "rating": 4.2
+        },
+        {
+          "name": "Paneer Makhani",
+          "ingredients": ["paneer", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "cream", "butter"],
+          "method": "1. Cut paneer into cubes and fry until golden brown. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add paneer and simmer until heated through. 5. Add cream and butter and stir until heated through. Serve hot with naan or rice.",
+          "rating": 4.5
+        }
+      ]
+    }, 
+    {
+      "id":4,
+      "chefName": "Ranveer Brar",    
+    "yearsOfExperience": 20,    
+    "numRecipes": 700,    
+    "likes": 12000,    
+    "image": "https://assets.telegraphindia.com/telegraph/b86693e9-3006-48f0-a92b-eaf17a84a532.jpg",
+      "bio": "Ranveer Brar is a Michelin-starred Indian chef who has worked in some of the most prestigious kitchens in the world. He is the founder of the culinary arts organisation, Vikas Khanna Culinary Insights, and has written several books on Indian cuisine. He is known for his fusion cooking, which combines traditional Indian dishes with global ingredients.",
+      "recipes": [
+        {
+          "name": "Lamb Rogan Josh",
+          "ingredients": ["lamb", "onion", "ginger", "garlic", "tomato", "yogurt", "cumin", "coriander", "garam masala", "cardamom"],
+          "method": "1. Brown lamb in a pan and set aside. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add yogurt and spices and simmer for a few minutes. 5. Add the lamb and cook until heated through. 6. Serve hot with rice or naan.",
+          "rating": 4.7
+        },
+        {
+          "name": "Baingan Bharta",
+          "ingredients": ["eggplant", "tomato", "onion", "ginger", "garlic", "green chilies", "coriander", "cumin", "garam masala"],
+          "method": "1. Roast eggplant over an open flame until the skin is charred and the flesh is cooked through. 2. Remove the skin and mash the flesh. 3. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the mashed eggplant and spices and cook until heated through. 6. Garnish with coriander and serve hot with naan or rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Murg Makhani",
+          "ingredients": ["chicken", "onion", "ginger", "garlic", "tomato", "cream", "butter", "cumin", "coriander", "garam masala"],
+          "method": "1. Cut chicken into small pieces and fry until browned. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add cream and butter and stir until heated through. 5. Add the chicken and spices and simmer until heated through. 6. Serve hot with rice or naan.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id":5,
+      "chefName": "gaggan anand",    
+    "yearsOfExperience": 15,    
+    "numRecipes": 400,    
+    "likes": 7000,    
+    "image": "https://www.identitagolose.it/public/images/medium/schermata-2018-03-14-alle-104149.jpg",
+      "bio": "gaggan anand is an Indian chef who was the first Indian man to receive a Michelin star. he is the chef and owner of the critically acclaimed restaurant, Gaa, in Bangkok, which features a modern interpretation of Indian cuisine using locally sourced ingredients. Anand has been recognized for her innovative cooking and his efforts to promote sustainability in the restaurant industry.",
+      "recipes": [
+        {
+          "name": "Lamb Rogan Josh",
+          "ingredients": ["lamb", "onion", "ginger", "garlic", "tomato", "yogurt", "cumin", "coriander", "garam masala", "cardamom"],
+          "method": "1. Brown lamb in a pan and set aside. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add yogurt and spices and simmer for a few minutes. 5. Add the lamb and cook until heated through. 6. Serve hot with rice or naan.",
+          "rating": 4.7
+        },
+        {
+          "name": "Baingan Bharta",
+          "ingredients": ["eggplant", "tomato", "onion", "ginger", "garlic", "green chilies", "coriander", "cumin", "garam masala"],
+          "method": "1. Roast eggplant over an open flame until the skin is charred and the flesh is cooked through. 2. Remove the skin and mash the flesh. 3. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 4. Add tomato and cook until the mixture becomes a paste. 5. Add the mashed eggplant and spices and cook until heated through. 6. Garnish with coriander and serve hot with naan or rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Murg Makhani",
+          "ingredients": ["chicken", "onion", "ginger", "garlic", "tomato", "cream", "butter", "cumin", "coriander", "garam masala"],
+          "method": "1. Cut chicken into small pieces and fry until browned. 2. In a separate pan, sauté onion, ginger, and garlic until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add cream and butter and stir until heated through. 5. Add the chicken and spices and simmer until heated through. 6. Serve hot with rice or naan.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id":6,
+          "chefName": "Atul Kochhar",   
+       "yearsOfExperience": 30,    
+       "numRecipes": 800,    
+       "likes": 14000,    
+       "image": "https://yt3.googleusercontent.com/ytc/AGIKgqOzaD9pP2Z-ahK0V41uYF11r8wr6bubvG8BrYI1=s176-c-k-c0x00ffffff-no-rj",
+      "bio": "Atul Kochhar is a Michelin-starred Indian chef who has worked in some of the most prestigious kitchens in London, including the Benares and Rang Mahal restaurants. He is known for his contemporary Indian cuisine and has won numerous awards for his work, including a prestigious National Chef of the Year award in the UK.",
+      "recipes": [
+        {
+          "name": "Tandoori Salmon",
+          "ingredients": ["salmon fillets", "yogurt", "lemon juice", "ginger", "garlic", "cumin", "coriander", "turmeric", "red chili powder", "garam masala"],
+          "method": "1. Marinate salmon fillets in a mixture of yogurt, lemon juice, ginger, garlic, and spices. 2. Grill the salmon until cooked through. 3. Serve hot with a side of salad or rice.",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Biryani",
+          "ingredients": ["chicken", "basmati rice", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "garam masala", "mint leaves", "yogurt"],
+          "method": "1. Marinate chicken in a mixture of yogurt, ginger, garlic, and spices. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add the marinated chicken and cook until browned. 5. Add water and rice and bring to a boil. 6. Cover and simmer until the rice is cooked through. 7. Add mint leaves and serve hot.",
+          "rating": 4.6
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "ingredients": ["paneer", "onion", "tomato", "ginger", "garlic", "green chilies", "cumin", "coriander", "cream", "butter"],
+          "method": "1. Cut paneer into cubes and fry until golden brown. 2. In a separate pan, sauté onion, ginger, garlic, and green chilies until fragrant. 3. Add tomato and cook until the mixture becomes a paste. 4. Add paneer and simmer until heated through. 5. Add cream and butter and stir until heated through. Serve hot with naan or rice.",
+          "rating": 4.5
+        }
+      ]
+    }
+    
 
 
-    ]      
+  ]      
